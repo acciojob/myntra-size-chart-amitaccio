@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+.wholetable ,td ,th{
+	border: 1px solid black;
+	border-collapse:collapse;
+	text-align:left;
+}
+.wholetable{
+	width:100%;
+}
+thead tr{
+	background-color:lightsalmon;
+	color:white;
+
+}
+.row-1 td{
+	 background-color:lightsteelblue;
+	color:white
+}
+.row-2 td{
+	    background-color: lightcoral;
+}
+.row-3 td{
+	    background-color: lightgray;
+}
